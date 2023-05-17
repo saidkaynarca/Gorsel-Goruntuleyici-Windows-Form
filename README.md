@@ -13,7 +13,8 @@ Projemize girdiğinizde kendi zevkinize özel arka plan aylarmanız için seçim
 ## UYGULAMA İÇİNDEN GÖRSELLER
 ## Görsel 1
 Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br> 
-![1](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/28fd5568-f355-4ae9-936e-39e0b533364c)</br>
+![1](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/610de09d-e686-41e1-a7cf-b3f55abb93dd)
+</br>
 (Anlatım yaparak geçmek istemedim aklınızda canlanması açısından giriş seviyesinde yaptım görsellerle destekleyeceğim. ilerleyen süreçte görsel değişiklikler olabilir)
  </br> </br> 
 ## Görsel 2
