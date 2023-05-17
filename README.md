@@ -19,15 +19,20 @@ Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br>
  </br> </br> 
 ## Görsel 2
 Şimdi Sırayla gidelim. Görsel butonuna tıkladığınızda sizin arka plana koymak istediğiniz görseli bulmak için klasör arama çubuğu açılacaktır. Oradan istediğiniz görseli seçtikten sonra görseli kaldır tikini aktif etmeniz gerekmektedir. </br> </br> 
-![4](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/581f3132-a437-40d3-bbbb-531b30fbb973)</br>
-Görseli kaldır tikini aktif edince seçtiğiniz görsel arka planı olacaktır. Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/e8dd222a-ea32-4f80-b19d-80285c05eaf0)</br>
+![4](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/e86ae99d-3f29-4e03-9f6c-9d60e7f3b2fc)
+</br>
+Görseli kaldır tikini aktif edince seçtiğiniz görsel arka planı olacaktır. Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
+![Uploading 5.png…]()
+</br>
 Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimizde böyle görünecek. Sil butonuna basarsanız default ayara dönecek projeyi ilk açtığınız ekran gibi beyaz görünecektir.
  </br> </br> 
 ## Görsel 3
 Şimdi ise arka plana tek renk verme işlemine geçelim.
-![2](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/aece1e3c-b233-46a7-8f9b-5c5b3f77aa4c)</br>
+![2](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/a6e10ced-3ae7-4c72-835f-05d6498d5b89)
+</br>
 Buradan klasik tek renkleri seçebilirsiniz ya da kendinize özel renk tanımla kısmına tıklayarak c,m,y,k kısmını tamamen sizin kontrol ettiğiniz alandan oluşturduğunuz bir rengi seçebilirsiniz. Ardından tamam dediğinizde seçtiğiniz renk arka plan olacaktır.
-![3](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97770df9-3b14-44ec-b26d-16ff07db2b32)</br>
+![3](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/a3b41001-d0bc-4ab4-b751-4278c2602ead)
+</br>
 Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
 </br> </br> 
 ## Proje Hakkında Bilgilendirme
