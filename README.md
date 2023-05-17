@@ -7,7 +7,7 @@
    - [1. Görsel](#Görsel-1)
    - [2. Görsel](#görsel-2)
    - [3. Görsel](#Görsel-3)
-3. [Şimdi Görsel Adım Kodlar Nasıl Olmalı?](#şimdi-adım-adım-kodlar-nasıl-olmalı)
+3. [Kod detaylı anlatım](#Projeyi-tamamladığımda-kod-satırlarının-detaylı-anlatımını-yapacağım)
 ## Uygulamanın Amacı 
 Projemize girdiğinizde kendi zevkinize özel arka plan aylarmanız için seçim yapacağınız renk tablosu ve klasik renklerden oluşan bir sayfa isteğe özel de bilgisayarınızda bulunan resimleri kullanabilirsiniz.</br> </br> 
 ## UYGULAMA İÇİNDEN GÖRSELLER
@@ -43,4 +43,4 @@ Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
       <li>Projeyi  <em><strong>Microsoft Visual Studio</strong></em> çerçevesinde geliştirdim .</li>
     </ul>
   </li>
- Projeyi tamamladığımda kod satırlarının detaylı anlatımını yapacağım.
+### Projeyi tamamladığımda kod satırlarının detaylı anlatımını yapacağım.
