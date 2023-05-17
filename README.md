@@ -42,5 +42,5 @@ Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
   <ul>
       <li>Projeyi  <em><strong>Microsoft Visual Studio</strong></em> çerçevesinde geliştirdim .</li>
     </ul>
-  </li>
+ 
 ### Projeyi tamamladığımda kod satırlarının detaylı anlatımını yapacağım.
