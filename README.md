@@ -22,7 +22,7 @@ Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br>
 ![4](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/e86ae99d-3f29-4e03-9f6c-9d60e7f3b2fc)
 </br>
 Görseli kaldır tikini aktif edince seçtiğiniz görsel arka planı olacaktır. Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
-![Uploading 5.png…]()
+![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97df3595-5827-4265-b16e-4641f0f1e6e6)
 </br>
 Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimizde böyle görünecek. Sil butonuna basarsanız default ayara dönecek projeyi ilk açtığınız ekran gibi beyaz görünecektir.
  </br> </br> 
