@@ -40,7 +40,7 @@ Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
   <li>Tercih ettiğim yazılım dili hakkında bilgi</li>
       <ul>
       <li>Projeyi <em><strong>Windows Form</strong></em> kullanarak yapacağım c# kodları ile destekleyeceğim.  </ul>
-  <li> Windows Form hakkında bilgi?
+  <li> Windows Form hakkında bilgi
       <ul>   <li> Windows Form", Microsoft'un .NET Framework adlı yazılım geliştirme platformunda yer alan bir bileşendir. Windows Forms, masaüstü uygulamaları geliştirmek için kullanılan bir teknolojidir. Geliştiricilere Windows tabanlı uygulamalar oluşturma ve kullanıcı arayüzü tasarlama imkanı sağlar.  Windows Forms, bir GUI (Grafiksel Kullanıcı Arayüzü) modeli kullanır ve Windows işletim sistemine özgü denetimleri (controls) ve özellikleri kullanarak uygulamaların oluşturulmasını sağlar. Bu denetimler, kullanıcıların etkileşimde bulunabileceği düğmeler, metin kutuları, menüler, liste kutuları, iletişim kutuları vb. gibi öğeleri içerir.
  </ul>
 
