@@ -13,7 +13,7 @@ Projemize girdiğinizde kendi zevkinize özel arka plan aylarmanız için seçim
 Daha detaylı anlatmak gerekirse;  &nbsp;   Bilgisayırınızda tek düze sitemden bi nebze uzaklaştırmak için biligisayar dosyalarınızda sörf ederek bilgisayarınızda bulunan istediğiniz tüm resim formatları dahil resimlerinizi eğlenceli şekilde görüntüleyebileceksiniz.
 Resim kalitesi dosya boyutu piksel oranı farklılık gözetmeksizin dilediğiniz gibi seçtiğiniz resmi görüntüleyebilirsiniz. 
 Uygulamamız sadece resimle sınırlı kalmayarak 42 temel renk seçeneği ile arkaplanınızı özelleştirebilir gerekirse kendinize özel renk tanımlayarak belki patenti size ait bir renk oluşturup onu da arkaplan olarak ayarlayabilirsiniz.
- Böylelikle nasıl çalıştığını anlatmış olduk.</br>
+ Böylelikle nasıl çalıştığını anlatmış olduk.</br></br>
 Bu uygulama ne işe yarayacak diye soracak olursanız en temel haliyle şöyle ifade edebilirim bilgisayarınızda hiç bir resim ve fotoğraf görüntüleme programına ihtiyaç duymadan bu uygulama üzerinden açabileceksiniz.
 
 </br> </br> 
