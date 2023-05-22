@@ -9,7 +9,7 @@
    - [3. Görsel](#Görsel-3)
 3. [Kod detaylı anlatım](#Projeyi-tamamladığımda-kod-satırlarının-detaylı-anlatımını-yapacağım)
 ## Uygulamanın Amacı 
-Projemize girdiğinizde kendi zevkinize özel arka plan aylarmanız için seçim yapacağınız renk tablosu ve klasik renklerden oluşan bir sayfa isteğe özel de bilgisayarınızda bulunan resimleri kullanabilirsiniz.Daha detaylı anlatmak gerekirse; Bilgisayırınızda tek düze sitemden bi nebze uzaklaştırmak için biligisayar dosyalarınızda sörf ederek bilgisayarınızda bulunan istediğiniz tüm resim formatları dahil resimlerinizi eğlenceli şekilde arkaplan yapaileceksiniz.
+Projemize girdiğinizde kendi zevkinize özel arka plan aylarmanız için seçim yapacağınız renk tablosu ve klasik renklerden oluşan bir sayfa isteğe özel de bilgisayarınızda bulunan resimleri kullanabilirsiniz. Daha detaylı anlatmak gerekirse; </br> Bilgisayırınızda tek düze sitemden bi nebze uzaklaştırmak için bilgisayar dosyalarınızda sörf ederek bilgisayarınızda bulunan istediğiniz tüm resim formatları dahil resimlerinizi eğlenceli şekilde arkaplan yapaileceksiniz.
  Resim kalitesi dosya boyutu piksel oranı farklılık gözetmeksizin dilediğiniz gibi seçtiğiniz resmi arkaplan yapabilirsiniz. 
 Uygulamamız sadece resimle sınırlı kalmayarak 42 temel renk seçeneği ile arkaplanınızı özelleştirebilir gerekirse kendinize özel renk tanımlayarak belki patenti size ait bir renk oluşturup onu da arkaplan olarak ayarlayabilirsiniz.
 </br> </br> 
