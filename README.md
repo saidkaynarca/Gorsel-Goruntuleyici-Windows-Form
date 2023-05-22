@@ -10,7 +10,7 @@
 3. [Kod detaylı anlatım](#Projeyi-tamamladığımda-kod-satırlarının-detaylı-anlatımını-yapacağım)
 ## Uygulamanın Amacı 
 Projemize girdiğinizde kendi zevkinize özel arkaplan aylarmanız için seçim yapacağınız renk tablosu ve klasik renklerden oluşan bir sayfa isteğe özel de bilgisayarınızda bulunan resimleri kullanabilirsiniz.</br></br>
-Daha detaylı anlatmak gerekirse;  &nbsp;   Bilgisayarınızda tek düze sitemden bi nebze uzaklaştırmak için bilgisayar dosyalarınızda sörf ederek bilgisayarınızda bulunan istediğiniz tüm resim formatları dahil resimlerinizi eğlenceli şekilde görüntüleyebileceksiniz.
+Daha detaylı anlatmak gerekirse;  &nbsp;   Bilgisayarınızda tek düze sistemden bi nebze uzaklaştırmak için bilgisayar dosyalarınızda sörf ederek bilgisayarınızda bulunan istediğiniz tüm resim formatları dahil resimlerinizi eğlenceli şekilde görüntüleyebileceksiniz.
 Resim kalitesi dosya boyutu piksel oranı farklılık gözetmeksizin dilediğiniz gibi seçtiğiniz resmi görüntüleyebilirsiniz. 
 Uygulamamız sadece resimle sınırlı kalmayarak 42 temel renk seçeneği ile arkaplanınızı özelleştirebilir gerekirse kendinize özel renk tanımlayarak belki patenti size ait bir renk oluşturup onu da arkaplan olarak ayarlayabilirsiniz.
  Böylelikle nasıl çalıştığını anlatmış olduk.</br></br>
