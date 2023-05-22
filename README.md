@@ -15,6 +15,7 @@ Resim kalitesi dosya boyutu piksel oranı farklılık gözetmeksizin dilediğini
 Uygulamamız sadece resimle sınırlı kalmayarak 42 temel renk seçeneği ile arkaplanınızı özelleştirebilir gerekirse kendinize özel renk tanımlayarak belki patenti size ait bir renk oluşturup onu da arkaplan olarak ayarlayabilirsiniz.
  Böylelikle nasıl çalıştığını anlatmış olduk.</br></br>
 Bu uygulama ne işe yarayacak diye soracak olursanız en temel haliyle şöyle ifade edebilirim bilgisayarınızda hiçbir resim ve fotoğraf görüntüleme programına ihtiyaç duymadan bu uygulama üzerinden açabileceksiniz.
+Dolayısıyla sizleri büyük bir külfetten ve yükten kurtarmış olacağız. 
 
 </br> </br> 
 ## UYGULAMA İÇİNDEN GÖRSELLER
