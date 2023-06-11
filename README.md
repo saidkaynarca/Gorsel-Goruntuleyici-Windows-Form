@@ -38,9 +38,6 @@ Uygulamamız, görsel dünyanızı daha verimli, hızlı ve yaratıcı bir şeki
 
 https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b
 
-[VİDEONUN LİNKİ](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b "VİDEONUN LİNKİ")
-
-
 
 ## Uygulamanın Amacı 
 Projemize girdiğinizde kendi zevkinize özel arkaplan aylarmanız için seçim yapacağınız renk tablosu ve klasik renklerden oluşan bir sayfa isteğe özel de bilgisayarınızda bulunan resimleri kullanabilirsiniz.</br></br>
