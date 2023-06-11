@@ -87,8 +87,10 @@ Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimi
 ![arka-plan-3](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/56f861c5-1fe8-4c93-af7b-2901378b1b48)
 
 </br>
-Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
-
+Gördüğünüz üzere kendi seçmiş olduğum özel rengimi seçtim ardından tamam dedim ve işlemi tamamladım. Nasıl göründüğünü göstereyim⬇.
+![arka-plan-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/6f2e8b05-8a76-49b9-b978-4c5bc531cd13)
+</br>
+Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım anlattık. Tüm bu işlemlerden sonra uygulamamızdan çıkmak istiyorsanız çıkış butonuna basmanız yeterli olacaktır.
 
 
 </br> </br> 
