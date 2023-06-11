@@ -113,9 +113,18 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
  
 ### Uygulamada Kullanılan Kodlar
    Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
-     
+- pictureBox1: Windows Forms uygulamasında kullanılacak bir resim görüntülemek için kullanılan bir PictureBox nesnesi.
+- stretchChecklist: CheckBox bileşeni, resmi gererek veya orantılı olarak ölçeklendirme seçeneği sunan bir işlevi kontrol eder.
+- showButton: PictureBox'da belirtilen resmi görüntülemek için kullanılan bir düğme.
+- clearButton: PictureBox'da görüntülenen resmi temizlemek için kullanılan bir düğme.
+- backgroundButton: PictureBox'ın arka plan rengini değiştirmek için kullanılan bir düğme.
+- closeButton: Uygulamayı kapatmak için kullanılan bir düğme.
+- colorDialog1: Arka plan rengi seçmek için kullanılan bir renk iletişim kutusu.
+- openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
+ 
+ <strong><ol>
      <li>Kullandığım kütüphaneler</li>
-  
+  <ul>
  <li>using System;
  <li>using System; 
  <li>using System.Collections.Generic;
@@ -126,12 +135,4 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
  <li>using System.Text;
  <li>using System.Threading.Tasks;
  <li>using System.Windows.Forms;</ul>
-- pictureBox1: Windows Forms uygulamasında kullanılacak bir resim görüntülemek için kullanılan bir PictureBox nesnesi.
-- stretchChecklist: CheckBox bileşeni, resmi gererek veya orantılı olarak ölçeklendirme seçeneği sunan bir işlevi kontrol eder.
-- showButton: PictureBox'da belirtilen resmi görüntülemek için kullanılan bir düğme.
-- clearButton: PictureBox'da görüntülenen resmi temizlemek için kullanılan bir düğme.
-- backgroundButton: PictureBox'ın arka plan rengini değiştirmek için kullanılan bir düğme.
-- closeButton: Uygulamayı kapatmak için kullanılan bir düğme.
-- colorDialog1: Arka plan rengi seçmek için kullanılan bir renk iletişim kutusu.
-- openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
-
+<strong><ol>
