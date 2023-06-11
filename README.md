@@ -2,12 +2,13 @@
 
 ### İçindekiler 
 1. [UYGULAMANIN TANITIMI](#UYGULAMANIN-TANITIMI)
-2. [UYGULAMANIN AMACI](#uygulamanın-amacı)
-3. [UYGULAMA İÇİNDEN GÖRSELLER](#uygulama-içinden-görseller)
+2. [UYGULAMANIN VİDEOSU](#UYGULAMANIN-VİDEOSU)
+3. [UYGULAMANIN AMACI](#uygulamanın-amacı)
+4. [UYGULAMA İÇİNDEN GÖRSELLER](#uygulama-içinden-görseller)
    - [1. Görsel](#Görsel-1)
    - [2. Görsel](#görsel-2)
    - [3. Görsel](#Görsel-3)
-4. [Kod detaylı anlatım](#Projeyi-tamamladığımda-kod-satırlarının-detaylı-anlatımını-yapacağım)
+5. [Uygulamada Kullanılan Kodlar](#Uygulamada-Kullanılan-Kodlar)
 
 ## UYGULAMANIN TANITIMI
 Görsel dünyanızı sınırların ötesine taşıyan bir çözümle tanışın! Yeni geliştirdiğimiz Windows Form uygulaması, her resim türünü sorunsuz bir şekilde açmanızı sağlarken, aynı zamanda istediğiniz arka plan rengini de uygulayabilme imkanı sunuyor.</br> </br>
@@ -31,6 +32,12 @@ Uygulamamız, zamanınızı ve emeğinizi korumanızı sağlayarak iş akışın
 Müşterilerinize veya iş arkadaşlarınıza hızlı geri bildirim sağlayarak iletişiminizi iyileştirirsiniz.Bu da projelerinizin kalitesini artırır ve iş akışınızı hızlandırır.</br>
 
 Uygulamamız, görsel dünyanızı daha verimli, hızlı ve yaratıcı bir şekilde yönetmenizi sağlar. Endüstri standartlarını aşan yetenekleriyle, işinizde bir adım öne geçmenizi ve müşterilerinize daha iyi hizmet sunmanızı sağlar.</br>
+
+## UYGULAMANIN TANITIMI
+
+
+https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b
+
 
 
 ## Uygulamanın Amacı 
@@ -105,4 +112,13 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
       <li>Projeyi  <em><strong>Microsoft Visual Studio</strong></em> çerçevesinde geliştirdim .</li>
     </ul>
  
-### Projeyi tamamladığımda kod satırlarının detaylı anlatımını yapacağım.
+### Uygulamada Kullanılan Kodlar
+   Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
+- pictureBox1: Windows Forms uygulamasında kullanılacak bir resim görüntülemek için kullanılan bir PictureBox nesnesi.
+- stretchChecklist: CheckBox bileşeni, resmi gererek veya orantılı olarak ölçeklendirme seçeneği sunan bir işlevi kontrol eder.
+- showButton: PictureBox'da belirtilen resmi görüntülemek için kullanılan bir düğme.
+- clearButton: PictureBox'da görüntülenen resmi temizlemek için kullanılan bir düğme.
+- backgroundButton: PictureBox'ın arka plan rengini değiştirmek için kullanılan bir düğme.
+- closeButton: Uygulamayı kapatmak için kullanılan bir düğme.
+- colorDialog1: Arka plan rengi seçmek için kullanılan bir renk iletişim kutusu.
+- openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
