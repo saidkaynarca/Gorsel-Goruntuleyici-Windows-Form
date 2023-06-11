@@ -113,6 +113,19 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
  
 ### Uygulamada Kullanılan Kodlar
    Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
+     <strong><ol>
+     <li>Kullandığım kütüphaneler</li>
+      <ul>
+      <li>using System;
+      <li>using System; 
+    <li>using System.Collections.Generic;
+    <li>using System.ComponentModel;
+   <li>using System.Data;
+ <li>using System.Drawing;
+ <li>using System.Linq;
+ <li>using System.Text;
+ <li>using System.Threading.Tasks;
+ <li>using System.Windows.Forms;</ul></ul>
 - pictureBox1: Windows Forms uygulamasında kullanılacak bir resim görüntülemek için kullanılan bir PictureBox nesnesi.
 - stretchChecklist: CheckBox bileşeni, resmi gererek veya orantılı olarak ölçeklendirme seçeneği sunan bir işlevi kontrol eder.
 - showButton: PictureBox'da belirtilen resmi görüntülemek için kullanılan bir düğme.
@@ -121,16 +134,4 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
 - closeButton: Uygulamayı kapatmak için kullanılan bir düğme.
 - colorDialog1: Arka plan rengi seçmek için kullanılan bir renk iletişim kutusu.
 - openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
-   <strong><ol>
-  <li>Kullandığım kütüphaneler</li>
-      <ul>
-      <li>using System;
-      <li>using System; </ul>
-    <li>using System.Collections.Generic;</ul>
-    <li>using System.ComponentModel;</ul>
-   <li>using System.Data;</ul>
- <li>using System.Drawing;</ul>
- <li>using System.Linq;</ul>
- <li>using System.Text;</ul>
- <li>using System.Threading.Tasks;</ul>
- <li>using System.Windows.Forms;</ul></ul>
+
