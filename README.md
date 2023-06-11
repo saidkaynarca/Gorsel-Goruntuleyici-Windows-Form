@@ -125,7 +125,7 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
   <li>Kullandığım kütüphaneler</li>
       <ul>
       <li>using System;
-    <li>using System; </ul>
+      <li>using System; </ul>
    
      <ul>using System;
 using System.Collections.Generic;
