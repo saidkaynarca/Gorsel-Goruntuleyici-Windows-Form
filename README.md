@@ -65,7 +65,8 @@ Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim 
 </br> Klasörden resim seçtikten sonra bu şekilde görünecek. Evet resmi açtınız fakat her resim türünü desteklediğimiz için resimlerin kalitesini düşürmek için boyut farkını koruyoruz. Resmi tekrardan kalitesini düşürmeden tam ekran görmek istiyorsak  "Resmi Kaldır/Aktif Et" butonuna tıklıyoruz.
 </br> </br>
 ![resim-seçimi-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/5e92ec56-4ce1-44c4-8827-0d1e74ece44b)</br>
-Resmimiz en kaliteli ve ölçeklendirmeli haliyle karşınızda.</br>
+Resmimiz en kaliteli ve ölçeklendirmeli haliyle karşınızda. Resimi kaldırmak istiyorsunuz diyelim o zaman da sil butonuna basmanız yeterli hemen onu da gösterelim⬇⬇⬇.</br>
+![resim-seçimi-5](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/ebd37deb-d3af-415f-bc72-b4fd2d2a5d0d)
 
  Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
 ![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97df3595-5827-4265-b16e-4641f0f1e6e6)
