@@ -46,7 +46,6 @@ Dolayısıyla sizleri büyük bir külfetten ve yükten kurtarmış olacağız.
 ## UYGULAMA İÇİNDEN GÖRSELLER
 ## Görsel 1
 Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br> 
-![1]![GİRİŞ-EKRANI](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/2b99c5e0-1fce-4fc8-84f6-ca071181e9aa)
 </br>
 (Anlatım yaparak geçmek istemedim aklınızda canlanması açısından giriş seviyesinde yaptım görsellerle destekleyeceğim. ilerleyen süreçte görsel değişiklikler olabilir)
  </br> </br> 
