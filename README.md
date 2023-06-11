@@ -53,7 +53,8 @@ Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br>
  </br> </br> 
 ## Görsel 2
 Şimdi Sırayla gidelim. Görsel butonuna tıkladığınızda sizin arka plana koymak istediğiniz görseli bulmak için klasör arama çubuğu açılacaktır. Oradan istediğiniz görseli seçtikten sonra görseli kaldır tikini aktif etmeniz gerekmektedir. </br> </br> 
-![4](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/e86ae99d-3f29-4e03-9f6c-9d60e7f3b2fc)
+![resdim-seçimi-1](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/45cf5262-86c2-4a6b-add9-26108b5b5a08)
+
 </br>
 Görseli kaldır tikini aktif edince seçtiğiniz görsel arka planı olacaktır. Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
 ![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97df3595-5827-4265-b16e-4641f0f1e6e6)
