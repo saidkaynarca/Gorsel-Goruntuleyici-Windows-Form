@@ -84,12 +84,12 @@ Resmi Kaldır/Aktif Et  tikini aktif etmediğiniz takdirde seçtiğiniz görsel 
 
 </br>
 Gördüğünüz üzere kendi seçmiş olduğum özel rengimi seçtim ardından tamam dedim ve işlemi tamamladım. Nasıl göründüğünü göstereyim⬇⬇.</br>
-![arka-plan-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/7b080a29-ccd7-4a57-9ba4-744ffff42de7)
+
 
 ![arka-plan-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/7b080a29-ccd7-4a57-9ba4-744ffff42de7)
 </br>
 Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım anlattık. Tüm bu işlemlerden sonra uygulamamızdan çıkmak istiyorsanız çıkış butonuna basmanız yeterli olacaktır.
-![arka-plan-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/7b080a29-ccd7-4a57-9ba4-744ffff42de7)
+
 </br> </br> 
 ## Proje Hakkında Bilgilendirme
 <strong><ol>
