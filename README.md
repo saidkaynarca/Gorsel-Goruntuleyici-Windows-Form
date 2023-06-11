@@ -9,6 +9,7 @@
    - [2. Görsel](#görsel-2)
    - [3. Görsel](#Görsel-3)
 5. [Uygulamada Kullanılan Kodlar](#Uygulamada-Kullanılan-Kodlar)
+6. [Galeri Köşesi](#Galeri-Köşesi)
 
 ## UYGULAMANIN TANITIMI
 Görsel dünyanızı sınırların ötesine taşıyan bir çözümle tanışın! Yeni geliştirdiğimiz Windows Form uygulaması, her resim türünü sorunsuz bir şekilde açmanızı sağlarken, aynı zamanda istediğiniz arka plan rengini de uygulayabilme imkanı sunuyor.</br> </br>
@@ -137,3 +138,14 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
  <li>using System.Threading.Tasks;
  <li>using System.Windows.Forms;</ul>
 <strong><ol>
+
+ ###Galeri Köşesi
+ ![Fotoram io (1)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/2d6a4205-bcbc-4ce8-a927-2c242d2f5921)
+![Fotoram io (2)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/afd0c7b9-10bc-4b46-987a-12a6418cd820)
+![Fotoram io (3)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/fbc433f9-c6c4-445b-abec-9e0e8bacdc60)
+![Fotoram io (4)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/a7620773-0dcb-4bfa-b318-5e02a95b801d)
+![Fotoram io (5)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/d08245db-14d3-4c70-992d-25c07761423c)
+![Fotoram io (6)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/be20cb2d-b9e4-4a88-9da7-a64f2a93b30f)
+
+ 
+ 
