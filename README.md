@@ -50,6 +50,7 @@ Uygulama içi görsellerle destekleyerek uygulamanın görünüşünü ve çalı
 
 Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br> 
 </br>
+Artık dilediğiniz resim formatını açabileceğiniz dilediğiniz arka plan rengini ayarlayabileceğiniz uygulamamıza giriş yapmış bulunmaktasınız. Bundan sonra ki her şey sizin zevkinize kalmış.
  </br> </br> 
 ## Görsel 2
 Şimdi Sırayla gidelim. Görsel butonuna tıkladığınızda sizin arka plana koymak istediğiniz görseli bulmak için klasör arama çubuğu açılacaktır. Oradan istediğiniz görseli seçtikten sonra görseli kaldır tikini aktif etmeniz gerekmektedir. </br> </br> 
