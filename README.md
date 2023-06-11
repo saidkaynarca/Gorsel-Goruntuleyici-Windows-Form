@@ -53,13 +53,16 @@ Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br>
 Artık dilediğiniz resim formatını açabileceğiniz dilediğiniz arka plan rengini ayarlayabileceğiniz uygulamamıza giriş yapmış bulunmaktasınız. Bundan sonra ki her şey sizin zevkinize kalmış.
  </br> </br> 
 ## Görsel 2
-Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim butonuna bastığınızda bilgisayarınıda ki tüm klasörleri hızlıca tarayıp önünüze sunar. Klasör içinden dilediğiniz resmi resim butonuna tıklayara açabilirsiniz. Oradan istediğiniz resmi seçtikten sonra resmi kaldır/aktif et tikini onayladığınızda resim tam pencereye otomatik olarak senkronize edilir ve tam şekilde bozulma olmadan açılır. </br> </br> 
+Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim butonuna bastığınızda bilgisayarınıda ki tüm klasörleri hızlıca tarayıp önünüze sunar. Klasör içinden dilediğiniz resmi resim butonuna tıklayara açabilirsiniz. </br> </br> 
 ![resdim-seçimi-1](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/45cf5262-86c2-4a6b-add9-26108b5b5a08)
-
 </br>
-Görseli kaldır tikini aktif edince seçtiğiniz görsel arka planı olacaktır. Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
+ Klasörden açacağımız resmi buluyoruz. Açmak istediğimiz resmi seçiyoruz.</br> 
+ ![resim-seçimi-2](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/e3af7c8a-7edc-4f7c-bafb-87ab42c6d87a)
+ Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
 ![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97df3595-5827-4265-b16e-4641f0f1e6e6)
 </br>
+
+
 Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimizde böyle görünecek. Sil butonuna basarsanız default ayara dönecek projeyi ilk açtığınız ekran gibi beyaz görünecektir.
  </br> </br> 
 ## Görsel 3
