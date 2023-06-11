@@ -115,17 +115,17 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
    Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
      <strong><ol>
      <li>Kullandığım kütüphaneler</li>
-      <ul>
-      <li>using System;
-      <li>using System; 
-    <li>using System.Collections.Generic;
-    <li>using System.ComponentModel;
-   <li>using System.Data;
+     <ul>
+ <li>using System;
+ <li>using System; 
+ <li>using System.Collections.Generic;
+ <li>using System.ComponentModel;
+ <li>using System.Data;
  <li>using System.Drawing;
  <li>using System.Linq;
  <li>using System.Text;
  <li>using System.Threading.Tasks;
- <li>using System.Windows.Forms;</ul></ul>
+ <li>using System.Windows.Forms;</ul>
 - pictureBox1: Windows Forms uygulamasında kullanılacak bir resim görüntülemek için kullanılan bir PictureBox nesnesi.
 - stretchChecklist: CheckBox bileşeni, resmi gererek veya orantılı olarak ölçeklendirme seçeneği sunan bir işlevi kontrol eder.
 - showButton: PictureBox'da belirtilen resmi görüntülemek için kullanılan bir düğme.
