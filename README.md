@@ -34,7 +34,7 @@ Müşterilerinize veya iş arkadaşlarınıza hızlı geri bildirim sağlayarak 
 
 Uygulamamız, görsel dünyanızı daha verimli, hızlı ve yaratıcı bir şekilde yönetmenizi sağlar. Endüstri standartlarını aşan yetenekleriyle, işinizde bir adım öne geçmenizi ve müşterilerinize daha iyi hizmet sunmanızı sağlar.</br>
 
-## UYGULAMANIN TANITIMI
+## UYGULAMANIN VİDEOSU
 
 
 https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b
