@@ -115,7 +115,7 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
    Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
      
      <li>Kullandığım kütüphaneler</li>
-     <ul>
+  
  <li>using System;
  <li>using System; 
  <li>using System.Collections.Generic;
