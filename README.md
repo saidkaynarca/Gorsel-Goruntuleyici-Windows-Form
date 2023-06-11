@@ -122,7 +122,11 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
 - colorDialog1: Arka plan rengi seçmek için kullanılan bir renk iletişim kutusu.
 - openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
    <strong><ol>
-    <li>Kullandığım kütüphaneler</li>
+  <li>Kullandığım kütüphaneler</li>
+      <ul>
+      <li>using System;
+    <li>using System; </ul>
+   
      <ul>using System;
 using System.Collections.Generic;
 using System.ComponentModel;
