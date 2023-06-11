@@ -112,6 +112,7 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
     </ul>
  
 ### Uygulamada Kullanılan Kodlar
+   -----
    Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
 - pictureBox1: Windows Forms uygulamasında kullanılacak bir resim görüntülemek için kullanılan bir PictureBox nesnesi.
 - stretchChecklist: CheckBox bileşeni, resmi gererek veya orantılı olarak ölçeklendirme seçeneği sunan bir işlevi kontrol eder.
