@@ -45,11 +45,11 @@ Dolayısıyla sizleri büyük bir külfetten ve yükten kurtarmış olacağız.
 </br> </br> 
 ## UYGULAMA İÇİNDEN GÖRSELLER
 ## Görsel 1
+Uygulama içi görsellerle destekleyerek uygulamanın görünüşünü ve çalışma mantığını anlatacağım.
 ![GİRİŞ-EKRANI](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/e1980d18-3f8b-4948-97f8-e6de91cc840b)
 
 Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br> 
 </br>
-(Anlatım yaparak geçmek istemedim aklınızda canlanması açısından giriş seviyesinde yaptım görsellerle destekleyeceğim. ilerleyen süreçte görsel değişiklikler olabilir)
  </br> </br> 
 ## Görsel 2
 Şimdi Sırayla gidelim. Görsel butonuna tıkladığınızda sizin arka plana koymak istediğiniz görseli bulmak için klasör arama çubuğu açılacaktır. Oradan istediğiniz görseli seçtikten sonra görseli kaldır tikini aktif etmeniz gerekmektedir. </br> </br> 
