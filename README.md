@@ -137,8 +137,9 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
  <li>using System.Text;
  <li>using System.Threading.Tasks;
  <li>using System.Windows.Forms;</ul>
-<strong><ol>
 
+
+  
  ###Galeri Köşesi
  ![Fotoram io (1)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/2d6a4205-bcbc-4ce8-a927-2c242d2f5921)
 ![Fotoram io (2)](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/afd0c7b9-10bc-4b46-987a-12a6418cd820)
