@@ -55,11 +55,16 @@ Artık dilediğiniz resim formatını açabileceğiniz dilediğiniz arka plan re
 ## Görsel 2
 
 ![resdim-seçimi-1](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/45cf5262-86c2-4a6b-add9-26108b5b5a08)
-Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim butonuna bastığınızda bilgisayarınıda ki tüm klasörleri hızlıca tarayıp önünüze sunar. Klasör içinden dilediğiniz resmi resim butonuna tıklayara açabilirsiniz. 
+Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim butonuna bastığınızda bilgisayarınızda ki tüm klasörleri hızlıca tarayıp önünüze sunar. Klasör içinden dilediğiniz resmi resim butonuna tıklayara açabilirsiniz. 
 </br> </br>
-</br> Klasörden açacağımız resmi buluyoruz. Açmak istediğimiz resmi seçiyoruz.</br> 
  ![resim-seçimi-2](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/e3af7c8a-7edc-4f7c-bafb-87ab42c6d87a)
- </br> Klasörden seçtiğimiz resim bu şekilde 
+ </br> Klasörden açacağımız resmi buluyoruz. Açmak istediğimiz resmi seçiyoruz.</br> 
+![resim-seçimi-3](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/74b709f3-c356-450b-bb8d-faf44f957205)
+</br> Klasörden resim seçtikten sonra bu şekilde görünecek. Evet resmi açtınız fakat her resim türünü desteklediğimiz için resimlerin kalitesini düşürmek için boyut farkını koruyoruz. Resmi tekrardan kalitesini düşürmeden tam ekran görmek istiyorsak  "Resmi Kaldır/Aktif Et" butonuna tıklıyoruz.
+</br> </br>
+![resim-seçimi-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/5e92ec56-4ce1-44c4-8827-0d1e74ece44b)</br>
+Resmimiz en kaliteli ve ölçeklendirmeli haliyle karşınızda.</br>
+
  Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
 ![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97df3595-5827-4265-b16e-4641f0f1e6e6)
 </br>
