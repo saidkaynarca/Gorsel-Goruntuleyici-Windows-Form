@@ -51,6 +51,8 @@ Uygulama içi görsellerle destekleyerek uygulamanın görünüşünü ve çalı
 Projeye girdiğinizde sizi sade beyaz bir ekran karşılayacak.</br> </br> 
 </br>
 Artık dilediğiniz resim formatını açabileceğiniz dilediğiniz arka plan rengini ayarlayabileceğiniz uygulamamıza giriş yapmış bulunmaktasınız. Bundan sonra ki her şey sizin zevkinize kalmış.
+</br>
+⬇⬇ RESİM GÖRÜNTÜLEMEYE GEÇELİM ⬇⬇
  </br> </br> 
 ## Görsel 2
 
