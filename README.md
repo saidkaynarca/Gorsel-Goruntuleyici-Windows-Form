@@ -68,12 +68,8 @@ Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim 
 Resmimiz en kaliteli ve ölçeklendirmeli haliyle karşınızda. Resimi kaldırmak istiyorsunuz diyelim o zaman da sil butonuna basmanız yeterli hemen onu da gösterelim⬇⬇⬇.</br>
 ![resim-seçimi-5](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/ebd37deb-d3af-415f-bc72-b4fd2d2a5d0d)
 
- Görseli kaldır tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
-![5](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/97df3595-5827-4265-b16e-4641f0f1e6e6)
-</br>
+Resmi Kaldır/Aktif Et  tikini aktif etmediğiniz takdirde seçtiğiniz görsel arka planı olarak işlem görmeyecektir seçtiğiniz bir arka plan rengi varsa o yoksa default olan beyaz renk arka planı olarak kalacaktır.
 
-
-Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimizde böyle görünecek. Sil butonuna basarsanız default ayara dönecek projeyi ilk açtığınız ekran gibi beyaz görünecektir.
  </br> </br> 
 ## Görsel 3
 Şimdi ise arka plana renk verme işlemine geçelim.
@@ -91,7 +87,6 @@ Gördüğünüz üzere kendi seçmiş olduğum özel rengimi seçtim ardından t
 ![arka-plan-4](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/6f2e8b05-8a76-49b9-b978-4c5bc531cd13)
 </br>
 Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım anlattık. Tüm bu işlemlerden sonra uygulamamızdan çıkmak istiyorsanız çıkış butonuna basmanız yeterli olacaktır.
-
 
 </br> </br> 
 ## Proje Hakkında Bilgilendirme
