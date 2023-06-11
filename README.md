@@ -121,3 +121,15 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
 - closeButton: Uygulamayı kapatmak için kullanılan bir düğme.
 - colorDialog1: Arka plan rengi seçmek için kullanılan bir renk iletişim kutusu.
 - openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
+   <strong><ol>
+    <li>Kullandığım kütüphaneler</li>
+     <ul>using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+      using System.Windows.Forms;</ul>
+    
