@@ -83,13 +83,14 @@ Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimi
 </br>
 ![arka-plan-2](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/cdca7b23-c864-4ec0-9668-2800b0ca784b)
 </br>
+ Gördüğünüz üzere seçtiğimiz mor renk bizim arka planımız oldu. Sadece burada olan belirli renkleri seçmek istemiyorsanız o zaman kendinize özel renk tanımla kısmına tıklayarak c,m,y,k kısmını tamamen sizin kontrol ettiğiniz alandan oluşturduğunuz bir rengi seçebilirsiniz. Ardından tamam dediğinizde seçtiğiniz renk arka plan olacaktır.
+![arka-plan-3](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/56f861c5-1fe8-4c93-af7b-2901378b1b48)
 
-![3](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/a3b41001-d0bc-4ab4-b751-4278c2602ead)
 </br>
 Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
 
 
-kendinize özel renk tanımla kısmına tıklayarak c,m,y,k kısmını tamamen sizin kontrol ettiğiniz alandan oluşturduğunuz bir rengi seçebilirsiniz. Ardından tamam dediğinizde seçtiğiniz renk arka plan olacaktır.
+
 </br> </br> 
 ## Proje Hakkında Bilgilendirme
 <strong><ol>
