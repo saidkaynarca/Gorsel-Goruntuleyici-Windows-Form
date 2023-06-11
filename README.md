@@ -1,7 +1,7 @@
  # WİNDOWS FORM KULLANARAK RESİM GÖRÜNTÜLEYİCİ YAPIMI
 
 ### İçindekiler 
-1. [UYGULAMANIN TANITIMI](#uygulamanın-tanıtımı)
+1. [UYGULAMANIN TANITIMI](#UYGULAMANIN-TANITIMI)
 2. [UYGULAMANIN AMACI](#uygulamanın-amacı)
 3. [UYGULAMA İÇİNDEN GÖRSELLER](#uygulama-içinden-görseller)
    - [1. Görsel](#Görsel-1)
