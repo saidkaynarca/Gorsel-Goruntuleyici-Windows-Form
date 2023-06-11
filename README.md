@@ -76,13 +76,20 @@ Resmimiz en kaliteli ve ölçeklendirmeli haliyle karşınızda. Resimi kaldırm
 Arka plan görselinin seçilip ardından görseli kaldır tikini aktif ettiğimizde böyle görünecek. Sil butonuna basarsanız default ayara dönecek projeyi ilk açtığınız ekran gibi beyaz görünecektir.
  </br> </br> 
 ## Görsel 3
-Şimdi ise arka plana tek renk verme işlemine geçelim.
-![2](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/a6e10ced-3ae7-4c72-835f-05d6498d5b89)
+Şimdi ise arka plana renk verme işlemine geçelim.
+![arka-plan](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/2b658805-7429-4747-aeef-806032a8bb9e)
+ Burada önümüzde olan klasik renklerden henhangi birine tıklayıp tamam dediğimizde seçtiğimiz renk arka plan rengimiz olarak ayarlanacaktır.
+ Örnek olarak moru seçelim.
 </br>
-Buradan klasik tek renkleri seçebilirsiniz ya da kendinize özel renk tanımla kısmına tıklayarak c,m,y,k kısmını tamamen sizin kontrol ettiğiniz alandan oluşturduğunuz bir rengi seçebilirsiniz. Ardından tamam dediğinizde seçtiğiniz renk arka plan olacaktır.
+![arka-plan-2](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/cdca7b23-c864-4ec0-9668-2800b0ca784b)
+</br>
+
 ![3](https://github.com/saidkaynarca/Gorsel-Goruntuleyici-Windows-Form/assets/103364823/a3b41001-d0bc-4ab4-b751-4278c2602ead)
 </br>
 Kapat butonuna bastığınızda projeyi kapatarak sonlandıracaktır.
+
+
+kendinize özel renk tanımla kısmına tıklayarak c,m,y,k kısmını tamamen sizin kontrol ettiğiniz alandan oluşturduğunuz bir rengi seçebilirsiniz. Ardından tamam dediğinizde seçtiğiniz renk arka plan olacaktır.
 </br> </br> 
 ## Proje Hakkında Bilgilendirme
 <strong><ol>
