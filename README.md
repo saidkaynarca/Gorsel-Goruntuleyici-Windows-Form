@@ -126,14 +126,11 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
       <ul>
       <li>using System;
       <li>using System; </ul>
-   
-     <ul>using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-      using System.Windows.Forms;</ul>
-    
+    <li>using System.Collections.Generic;</ul>
+    <li>using System.ComponentModel;</ul>
+   <li>using System.Data;</ul>
+ <li>using System.Drawing;</ul>
+ <li>using System.Linq;</ul>
+ <li>using System.Text;</ul>
+ <li>using System.Threading.Tasks;</ul>
+ <li>using System.Windows.Forms;</ul></ul>
