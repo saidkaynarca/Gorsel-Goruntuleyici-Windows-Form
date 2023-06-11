@@ -10,7 +10,7 @@
 4. [Kod detaylı anlatım](#Projeyi-tamamladığımda-kod-satırlarının-detaylı-anlatımını-yapacağım)
 
 ## UYGULAMANIN TANITIMI
-Görsel dünyanızı sınırların ötesine taşıyan bir çözümle tanışın! Yeni geliştirdiğimiz Windows Form uygulaması, her resim türünü sorunsuz bir şekilde açmanızı sağlarken, aynı zamanda istediğiniz arka plan rengini de uygulayabilme imkanı sunuyor.</br>
+Görsel dünyanızı sınırların ötesine taşıyan bir çözümle tanışın! Yeni geliştirdiğimiz Windows Form uygulaması, her resim türünü sorunsuz bir şekilde açmanızı sağlarken, aynı zamanda istediğiniz arka plan rengini de uygulayabilme imkanı sunuyor.</br> </br>
 Günümüzde farklı resim formatlarına sık sık rastlıyoruz: JPEG, PNG, BMP, GIF, TIFF ve daha fazlası. Bu çeşitlilik, her formatı açabilen bir uygulamaya olan ihtiyacı da beraberinde getiriyor. İşte burada biz devreye giriyoruz!</br>
 
 Uygulamamız, tüm resim türlerini açma ve görüntüleme konusunda sorunsuz bir deneyim sunuyor. Artık herhangi bir formatın uyumluluk sorunlarıyla uğraşmanıza gerek kalmayacak. JPEG'in yanı sıra PNG'nin şeffaf arka planını koruyabilir, BMP'nin yüksek kalitesini deneyimleyebilir ve GIF'in hareketli resimlerini keyifle izleyebilirsiniz. Ayrıca, uygulamamızın eşsiz özelliği olan arka plan rengi seçeneği sayesinde, her resminizi bir adım öne çıkarmak ve yaratıcılığınızı sınırlamadan kullanmanız mümkün.</br>
