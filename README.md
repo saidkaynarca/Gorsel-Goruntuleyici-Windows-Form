@@ -55,7 +55,7 @@ Artık dilediğiniz resim formatını açabileceğiniz dilediğiniz arka plan re
 ⬇⬇ RESİM GÖRÜNTÜLEMEYE GEÇELİM ⬇⬇
  </br> </br> 
 ## Görsel 2
-
+Resim görüntüleme anlatımı.
 ![resdim-seçimi-1](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/45cf5262-86c2-4a6b-add9-26108b5b5a08)
 Uygulamada resim seçmek istediğinizde resim butonuna basmanız yeterli. Resim butonuna bastığınızda bilgisayarınızda ki tüm klasörleri hızlıca tarayıp önünüze sunar. Klasör içinden dilediğiniz resmi resim butonuna tıklayara açabilirsiniz. 
 </br> </br>
