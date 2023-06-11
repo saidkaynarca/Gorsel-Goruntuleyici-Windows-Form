@@ -113,7 +113,7 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
  
 ### Uygulamada Kullanılan Kodlar
    Uygulamada kullandığım tüm kodları tek tek yazmam çok uzun sürecek o yüzden en sık kullanılanlardan örnek vereceğim.
-     <strong><ol>
+     
      <li>Kullandığım kütüphaneler</li>
      <ul>
  <li>using System;
