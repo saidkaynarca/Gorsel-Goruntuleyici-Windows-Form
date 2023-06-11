@@ -38,7 +38,7 @@ Uygulamamız, görsel dünyanızı daha verimli, hızlı ve yaratıcı bir şeki
 
 https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b
 
-[VİDEONUN LİNKİ]([https://github.com/kaymal](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b "VİDEONUN LİNKİ")
+[VİDEONUN LİNKİ]([https://github.com/kaymal](https://github.com/saidkaynarca/Resim-Goruntuleyici-Windows-Form/assets/103364823/1da94cce-6828-49db-b673-3fba451f3e6b)
 
 
 
