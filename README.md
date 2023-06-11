@@ -123,7 +123,7 @@ Uygulamamızda neler yapabileceğimizi ve nasıl yapacağımızı adım adım an
 - openFileDialog1: Resim dosyalarını seçmek için kullanılan bir dosya iletişim kutusu.
  
  <strong><ol>
-     <li>Kullandığım kütüphaneler</li>
+  <h2> Kullandığım kütüphaneler</h2>
   <ul>
  <li>using System;
  <li>using System; 
